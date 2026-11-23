@@ -1,0 +1,2598 @@
+{
+  "version": "10.0",
+  "transcript": "Mandir bhara hua tha. Aarti ki jyot lakh lakh haathon mein jal rahi thi. Magar ek kursi khali thi. Us par — ek purana, geela shawl. Tahta hua. Jaise kisi ne abhi-abhi uthaya ho. Log phusphusaye: \"Kaun hai? Koi mantri? Koi baba?\" Dadaji muskuraye. Haath shawl pe rakha. \"Mera dost hai. Bas yeh seat chahiye.\" Ek ladki baith gayi us par. Dadaji ne usay uthaya. Shawl saaf kiya. \"Abhi nahi.\" Ghanti baji. Aarti khatam. Bheed chhant gayi. Kursi khali. Shawl khali. Koi nahi aaya. Raat ko Dadaji ne wo shawl uthaya. Chooma. Bag mein rakh diya. Aur yaad aaya — pachpan saal pehle. Chhota Dadaji. Maa ki ungli pakde. Darwaze par. \"Baba fauj mein hain, beta. Tuesday aayenge.\" Aaj bhi Tuesday hai. Woh aaye. Shawl mein. Seat mein. Intezaar mein. Har Tuesday.",
+  "language": "hi",
+  "voice_file": "/workspace/app/projects/stranger-chair/audio/voice-original.mp3",
+  "voice_sha256": "c46f59caf6d0fdf167acf93ff5e9fa784dfe6c411e76f987a2aba73456150500",
+  "actual_voice_duration": 60.029,
+  "provider": "vad_speech_envelope_fallback",
+  "alignment_method": "vad_speech_envelope_fallback",
+  "is_fallback": true,
+  "synchronized": false,
+  "warnings": [
+    "Local forced aligner unavailable (No local Hindi forced aligner (whisperx or faster_whisper) is installed.); using explicit VAD speech-envelope fallback.",
+    "EXPLICIT FALLBACK: Exact word-level forced alignment was unavailable; word timings were estimated from detected speech-activity intervals and Hindi syllable weights. Configure ELEVENLABS_API_KEY (TTS timestamps or /v1/forced-alignment) or install faster-whisper/whisperx for exact word alignment."
+  ],
+  "word_count": 132,
+  "phrase_count": 53,
+  "words": [
+    {
+      "word": "Mandir",
+      "start": 0.0,
+      "end": 0.562,
+      "confidence": 0.45
+    },
+    {
+      "word": "bhara",
+      "start": 0.562,
+      "end": 1.031,
+      "confidence": 0.45
+    },
+    {
+      "word": "hua",
+      "start": 1.031,
+      "end": 1.312,
+      "confidence": 0.45
+    },
+    {
+      "word": "tha.",
+      "start": 1.312,
+      "end": 1.74,
+      "confidence": 0.45
+    },
+    {
+      "word": "Aarti",
+      "start": 1.74,
+      "end": 2.208,
+      "confidence": 0.45
+    },
+    {
+      "word": "ki",
+      "start": 2.208,
+      "end": 2.476,
+      "confidence": 0.45
+    },
+    {
+      "word": "jyot",
+      "start": 2.476,
+      "end": 2.851,
+      "confidence": 0.45
+    },
+    {
+      "word": "lakh",
+      "start": 2.851,
+      "end": 3.226,
+      "confidence": 0.45
+    },
+    {
+      "word": "lakh",
+      "start": 3.226,
+      "end": 3.6,
+      "confidence": 0.45
+    },
+    {
+      "word": "haathon",
+      "start": 3.6,
+      "end": 4.256,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein",
+      "start": 4.256,
+      "end": 4.631,
+      "confidence": 0.45
+    },
+    {
+      "word": "jal",
+      "start": 4.631,
+      "end": 4.912,
+      "confidence": 0.45
+    },
+    {
+      "word": "rahi",
+      "start": 4.912,
+      "end": 5.287,
+      "confidence": 0.45
+    },
+    {
+      "word": "thi.",
+      "start": 5.287,
+      "end": 5.715,
+      "confidence": 0.45
+    },
+    {
+      "word": "Magar",
+      "start": 5.715,
+      "end": 6.184,
+      "confidence": 0.45
+    },
+    {
+      "word": "ek",
+      "start": 6.184,
+      "end": 6.451,
+      "confidence": 0.45
+    },
+    {
+      "word": "kursi",
+      "start": 6.451,
+      "end": 6.92,
+      "confidence": 0.45
+    },
+    {
+      "word": "khali",
+      "start": 6.92,
+      "end": 7.388,
+      "confidence": 0.45
+    },
+    {
+      "word": "thi.",
+      "start": 7.388,
+      "end": 7.816,
+      "confidence": 0.45
+    },
+    {
+      "word": "Us",
+      "start": 7.816,
+      "end": 8.084,
+      "confidence": 0.45
+    },
+    {
+      "word": "par",
+      "start": 8.084,
+      "end": 8.365,
+      "confidence": 0.45
+    },
+    {
+      "word": "—",
+      "start": 8.365,
+      "end": 8.472,
+      "confidence": 0.45
+    },
+    {
+      "word": "ek",
+      "start": 8.472,
+      "end": 8.74,
+      "confidence": 0.45
+    },
+    {
+      "word": "purana,",
+      "start": 8.74,
+      "end": 9.369,
+      "confidence": 0.45
+    },
+    {
+      "word": "geela",
+      "start": 9.369,
+      "end": 9.838,
+      "confidence": 0.45
+    },
+    {
+      "word": "shawl.",
+      "start": 9.838,
+      "end": 10.453,
+      "confidence": 0.45
+    },
+    {
+      "word": "Tahta",
+      "start": 10.453,
+      "end": 10.922,
+      "confidence": 0.45
+    },
+    {
+      "word": "hua.",
+      "start": 10.922,
+      "end": 11.35,
+      "confidence": 0.45
+    },
+    {
+      "word": "Jaise",
+      "start": 11.35,
+      "end": 11.818,
+      "confidence": 0.45
+    },
+    {
+      "word": "kisi",
+      "start": 11.818,
+      "end": 12.193,
+      "confidence": 0.45
+    },
+    {
+      "word": "ne",
+      "start": 12.193,
+      "end": 12.461,
+      "confidence": 0.45
+    },
+    {
+      "word": "abhi-abhi",
+      "start": 12.461,
+      "end": 13.304,
+      "confidence": 0.45
+    },
+    {
+      "word": "uthaya",
+      "start": 13.304,
+      "end": 13.866,
+      "confidence": 0.45
+    },
+    {
+      "word": "ho.",
+      "start": 13.866,
+      "end": 14.281,
+      "confidence": 0.45
+    },
+    {
+      "word": "Log",
+      "start": 14.281,
+      "end": 14.562,
+      "confidence": 0.45
+    },
+    {
+      "word": "phusphusaye:",
+      "start": 14.562,
+      "end": 15.66,
+      "confidence": 0.45
+    },
+    {
+      "word": "\"Kaun",
+      "start": 15.66,
+      "end": 16.035,
+      "confidence": 0.45
+    },
+    {
+      "word": "hai?",
+      "start": 16.035,
+      "end": 16.463,
+      "confidence": 0.45
+    },
+    {
+      "word": "Koi",
+      "start": 16.463,
+      "end": 16.744,
+      "confidence": 0.45
+    },
+    {
+      "word": "mantri?",
+      "start": 16.744,
+      "end": 17.453,
+      "confidence": 0.45
+    },
+    {
+      "word": "Koi",
+      "start": 17.453,
+      "end": 17.734,
+      "confidence": 0.45
+    },
+    {
+      "word": "baba?\"",
+      "start": 17.734,
+      "end": 18.176,
+      "confidence": 0.45
+    },
+    {
+      "word": "Dadaji",
+      "start": 18.176,
+      "end": 18.738,
+      "confidence": 0.45
+    },
+    {
+      "word": "muskuraye.",
+      "start": 18.738,
+      "end": 19.729,
+      "confidence": 0.45
+    },
+    {
+      "word": "Haath",
+      "start": 19.729,
+      "end": 20.197,
+      "confidence": 0.45
+    },
+    {
+      "word": "shawl",
+      "start": 20.197,
+      "end": 20.666,
+      "confidence": 0.45
+    },
+    {
+      "word": "pe",
+      "start": 20.666,
+      "end": 20.933,
+      "confidence": 0.45
+    },
+    {
+      "word": "rakha.",
+      "start": 20.933,
+      "end": 21.549,
+      "confidence": 0.45
+    },
+    {
+      "word": "\"Mera",
+      "start": 21.549,
+      "end": 21.924,
+      "confidence": 0.45
+    },
+    {
+      "word": "dost",
+      "start": 21.924,
+      "end": 22.298,
+      "confidence": 0.45
+    },
+    {
+      "word": "hai.",
+      "start": 22.298,
+      "end": 22.727,
+      "confidence": 0.45
+    },
+    {
+      "word": "Bas",
+      "start": 22.727,
+      "end": 23.008,
+      "confidence": 0.45
+    },
+    {
+      "word": "yeh",
+      "start": 23.008,
+      "end": 23.289,
+      "confidence": 0.45
+    },
+    {
+      "word": "seat",
+      "start": 23.289,
+      "end": 23.664,
+      "confidence": 0.45
+    },
+    {
+      "word": "chahiye.\"",
+      "start": 23.664,
+      "end": 24.386,
+      "confidence": 0.45
+    },
+    {
+      "word": "Ek",
+      "start": 24.386,
+      "end": 24.654,
+      "confidence": 0.45
+    },
+    {
+      "word": "ladki",
+      "start": 24.654,
+      "end": 25.123,
+      "confidence": 0.45
+    },
+    {
+      "word": "baith",
+      "start": 25.123,
+      "end": 25.591,
+      "confidence": 0.45
+    },
+    {
+      "word": "gayi",
+      "start": 25.591,
+      "end": 25.966,
+      "confidence": 0.45
+    },
+    {
+      "word": "us",
+      "start": 25.966,
+      "end": 26.233,
+      "confidence": 0.45
+    },
+    {
+      "word": "par.",
+      "start": 26.233,
+      "end": 26.662,
+      "confidence": 0.45
+    },
+    {
+      "word": "Dadaji",
+      "start": 26.662,
+      "end": 27.224,
+      "confidence": 0.45
+    },
+    {
+      "word": "ne",
+      "start": 27.224,
+      "end": 27.492,
+      "confidence": 0.45
+    },
+    {
+      "word": "usay",
+      "start": 27.492,
+      "end": 27.866,
+      "confidence": 0.45
+    },
+    {
+      "word": "uthaya.",
+      "start": 27.866,
+      "end": 28.576,
+      "confidence": 0.45
+    },
+    {
+      "word": "Shawl",
+      "start": 28.576,
+      "end": 29.044,
+      "confidence": 0.45
+    },
+    {
+      "word": "saaf",
+      "start": 29.044,
+      "end": 29.419,
+      "confidence": 0.45
+    },
+    {
+      "word": "kiya.",
+      "start": 29.419,
+      "end": 29.941,
+      "confidence": 0.45
+    },
+    {
+      "word": "\"Abhi",
+      "start": 29.941,
+      "end": 30.316,
+      "confidence": 0.45
+    },
+    {
+      "word": "nahi.\"",
+      "start": 30.316,
+      "end": 30.757,
+      "confidence": 0.45
+    },
+    {
+      "word": "Ghanti",
+      "start": 30.757,
+      "end": 31.319,
+      "confidence": 0.45
+    },
+    {
+      "word": "baji.",
+      "start": 31.319,
+      "end": 31.841,
+      "confidence": 0.45
+    },
+    {
+      "word": "Aarti",
+      "start": 31.841,
+      "end": 32.31,
+      "confidence": 0.45
+    },
+    {
+      "word": "khatam.",
+      "start": 32.31,
+      "end": 33.019,
+      "confidence": 0.45
+    },
+    {
+      "word": "Bheed",
+      "start": 33.019,
+      "end": 33.488,
+      "confidence": 0.45
+    },
+    {
+      "word": "chhant",
+      "start": 33.488,
+      "end": 34.05,
+      "confidence": 0.45
+    },
+    {
+      "word": "gayi.",
+      "start": 34.05,
+      "end": 34.572,
+      "confidence": 0.45
+    },
+    {
+      "word": "Kursi",
+      "start": 34.572,
+      "end": 35.04,
+      "confidence": 0.45
+    },
+    {
+      "word": "khali.",
+      "start": 35.04,
+      "end": 35.656,
+      "confidence": 0.45
+    },
+    {
+      "word": "Shawl",
+      "start": 35.656,
+      "end": 36.124,
+      "confidence": 0.45
+    },
+    {
+      "word": "khali.",
+      "start": 36.124,
+      "end": 36.74,
+      "confidence": 0.45
+    },
+    {
+      "word": "Koi",
+      "start": 36.74,
+      "end": 37.021,
+      "confidence": 0.45
+    },
+    {
+      "word": "nahi",
+      "start": 37.021,
+      "end": 37.396,
+      "confidence": 0.45
+    },
+    {
+      "word": "aaya.",
+      "start": 37.396,
+      "end": 37.918,
+      "confidence": 0.45
+    },
+    {
+      "word": "Raat",
+      "start": 37.918,
+      "end": 38.293,
+      "confidence": 0.45
+    },
+    {
+      "word": "ko",
+      "start": 38.293,
+      "end": 38.56,
+      "confidence": 0.45
+    },
+    {
+      "word": "Dadaji",
+      "start": 38.56,
+      "end": 39.123,
+      "confidence": 0.45
+    },
+    {
+      "word": "ne",
+      "start": 39.123,
+      "end": 39.39,
+      "confidence": 0.45
+    },
+    {
+      "word": "wo",
+      "start": 39.39,
+      "end": 39.658,
+      "confidence": 0.45
+    },
+    {
+      "word": "shawl",
+      "start": 39.658,
+      "end": 40.126,
+      "confidence": 0.45
+    },
+    {
+      "word": "uthaya.",
+      "start": 40.126,
+      "end": 40.836,
+      "confidence": 0.45
+    },
+    {
+      "word": "Chooma.",
+      "start": 40.836,
+      "end": 41.545,
+      "confidence": 0.45
+    },
+    {
+      "word": "Bag",
+      "start": 41.545,
+      "end": 41.826,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein",
+      "start": 41.826,
+      "end": 42.201,
+      "confidence": 0.45
+    },
+    {
+      "word": "rakh",
+      "start": 42.201,
+      "end": 42.576,
+      "confidence": 0.45
+    },
+    {
+      "word": "diya.",
+      "start": 42.576,
+      "end": 43.098,
+      "confidence": 0.45
+    },
+    {
+      "word": "Aur",
+      "start": 43.098,
+      "end": 43.379,
+      "confidence": 0.45
+    },
+    {
+      "word": "yaad",
+      "start": 43.379,
+      "end": 43.754,
+      "confidence": 0.45
+    },
+    {
+      "word": "aaya",
+      "start": 43.754,
+      "end": 44.128,
+      "confidence": 0.45
+    },
+    {
+      "word": "—",
+      "start": 44.128,
+      "end": 44.235,
+      "confidence": 0.45
+    },
+    {
+      "word": "pachpan",
+      "start": 44.235,
+      "end": 44.891,
+      "confidence": 0.45
+    },
+    {
+      "word": "saal",
+      "start": 44.891,
+      "end": 45.266,
+      "confidence": 0.45
+    },
+    {
+      "word": "pehle.",
+      "start": 45.266,
+      "end": 45.882,
+      "confidence": 0.45
+    },
+    {
+      "word": "Chhota",
+      "start": 45.882,
+      "end": 46.444,
+      "confidence": 0.45
+    },
+    {
+      "word": "Dadaji.",
+      "start": 46.444,
+      "end": 47.153,
+      "confidence": 0.45
+    },
+    {
+      "word": "Maa",
+      "start": 47.153,
+      "end": 47.434,
+      "confidence": 0.45
+    },
+    {
+      "word": "ki",
+      "start": 47.434,
+      "end": 47.702,
+      "confidence": 0.45
+    },
+    {
+      "word": "ungli",
+      "start": 47.702,
+      "end": 48.17,
+      "confidence": 0.45
+    },
+    {
+      "word": "pakde.",
+      "start": 48.17,
+      "end": 48.786,
+      "confidence": 0.45
+    },
+    {
+      "word": "Darwaze",
+      "start": 48.786,
+      "end": 49.442,
+      "confidence": 0.45
+    },
+    {
+      "word": "par.",
+      "start": 49.442,
+      "end": 49.87,
+      "confidence": 0.45
+    },
+    {
+      "word": "\"Baba",
+      "start": 49.87,
+      "end": 50.245,
+      "confidence": 0.45
+    },
+    {
+      "word": "fauj",
+      "start": 50.245,
+      "end": 50.62,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein",
+      "start": 50.62,
+      "end": 50.995,
+      "confidence": 0.45
+    },
+    {
+      "word": "hain,",
+      "start": 50.995,
+      "end": 51.436,
+      "confidence": 0.45
+    },
+    {
+      "word": "beta.",
+      "start": 51.436,
+      "end": 51.958,
+      "confidence": 0.45
+    },
+    {
+      "word": "Tuesday",
+      "start": 51.958,
+      "end": 52.614,
+      "confidence": 0.45
+    },
+    {
+      "word": "aayenge.\"",
+      "start": 52.614,
+      "end": 53.337,
+      "confidence": 0.45
+    },
+    {
+      "word": "Aaj",
+      "start": 53.337,
+      "end": 53.618,
+      "confidence": 0.45
+    },
+    {
+      "word": "bhi",
+      "start": 53.618,
+      "end": 53.899,
+      "confidence": 0.45
+    },
+    {
+      "word": "Tuesday",
+      "start": 53.899,
+      "end": 54.555,
+      "confidence": 0.45
+    },
+    {
+      "word": "hai.",
+      "start": 54.555,
+      "end": 54.983,
+      "confidence": 0.45
+    },
+    {
+      "word": "Woh",
+      "start": 54.983,
+      "end": 55.264,
+      "confidence": 0.45
+    },
+    {
+      "word": "aaye.",
+      "start": 55.264,
+      "end": 55.786,
+      "confidence": 0.45
+    },
+    {
+      "word": "Shawl",
+      "start": 55.786,
+      "end": 56.255,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein.",
+      "start": 56.255,
+      "end": 56.777,
+      "confidence": 0.45
+    },
+    {
+      "word": "Seat",
+      "start": 56.777,
+      "end": 57.151,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein.",
+      "start": 57.151,
+      "end": 57.673,
+      "confidence": 0.45
+    },
+    {
+      "word": "Intezaar",
+      "start": 57.673,
+      "end": 58.423,
+      "confidence": 0.45
+    },
+    {
+      "word": "mein.",
+      "start": 58.423,
+      "end": 58.945,
+      "confidence": 0.45
+    },
+    {
+      "word": "Har",
+      "start": 58.945,
+      "end": 59.226,
+      "confidence": 0.45
+    },
+    {
+      "word": "Tuesday.",
+      "start": 59.226,
+      "end": 60.029,
+      "confidence": 0.45
+    }
+  ],
+  "phrases": [
+    {
+      "index": 1,
+      "text": "Mandir bhara hua tha.",
+      "words": [
+        "Mandir",
+        "bhara",
+        "hua",
+        "tha."
+      ],
+      "word_timings": [
+        {
+          "word": "Mandir",
+          "start": 0.0,
+          "end": 0.562
+        },
+        {
+          "word": "bhara",
+          "start": 0.562,
+          "end": 1.031
+        },
+        {
+          "word": "hua",
+          "start": 1.031,
+          "end": 1.312
+        },
+        {
+          "word": "tha.",
+          "start": 1.312,
+          "end": 1.74
+        }
+      ],
+      "word_count": 4,
+      "start": 0.0,
+      "end": 1.74,
+      "highlight_word": null,
+      "scene_id": "scene_02"
+    },
+    {
+      "index": 2,
+      "text": "Aarti ki jyot",
+      "words": [
+        "Aarti",
+        "ki",
+        "jyot"
+      ],
+      "word_timings": [
+        {
+          "word": "Aarti",
+          "start": 1.74,
+          "end": 2.208
+        },
+        {
+          "word": "ki",
+          "start": 2.208,
+          "end": 2.476
+        },
+        {
+          "word": "jyot",
+          "start": 2.476,
+          "end": 2.851
+        }
+      ],
+      "word_count": 3,
+      "start": 1.74,
+      "end": 2.851,
+      "highlight_word": null,
+      "scene_id": "scene_06"
+    },
+    {
+      "index": 3,
+      "text": "lakh lakh haathon",
+      "words": [
+        "lakh",
+        "lakh",
+        "haathon"
+      ],
+      "word_timings": [
+        {
+          "word": "lakh",
+          "start": 2.851,
+          "end": 3.226
+        },
+        {
+          "word": "lakh",
+          "start": 3.226,
+          "end": 3.6
+        },
+        {
+          "word": "haathon",
+          "start": 3.6,
+          "end": 4.256
+        }
+      ],
+      "word_count": 3,
+      "start": 2.851,
+      "end": 4.256,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 4,
+      "text": "mein jal rahi thi.",
+      "words": [
+        "mein",
+        "jal",
+        "rahi",
+        "thi."
+      ],
+      "word_timings": [
+        {
+          "word": "mein",
+          "start": 4.256,
+          "end": 4.631
+        },
+        {
+          "word": "jal",
+          "start": 4.631,
+          "end": 4.912
+        },
+        {
+          "word": "rahi",
+          "start": 4.912,
+          "end": 5.287
+        },
+        {
+          "word": "thi.",
+          "start": 5.287,
+          "end": 5.715
+        }
+      ],
+      "word_count": 4,
+      "start": 4.256,
+      "end": 5.715,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 5,
+      "text": "Magar ek kursi",
+      "words": [
+        "Magar",
+        "ek",
+        "kursi"
+      ],
+      "word_timings": [
+        {
+          "word": "Magar",
+          "start": 5.715,
+          "end": 6.184
+        },
+        {
+          "word": "ek",
+          "start": 6.184,
+          "end": 6.451
+        },
+        {
+          "word": "kursi",
+          "start": 6.451,
+          "end": 6.92
+        }
+      ],
+      "word_count": 3,
+      "start": 5.715,
+      "end": 6.92,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 6,
+      "text": "khali thi.",
+      "words": [
+        "khali",
+        "thi."
+      ],
+      "word_timings": [
+        {
+          "word": "khali",
+          "start": 6.92,
+          "end": 7.388
+        },
+        {
+          "word": "thi.",
+          "start": 7.388,
+          "end": 7.816
+        }
+      ],
+      "word_count": 2,
+      "start": 6.92,
+      "end": 7.816,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 7,
+      "text": "Us par —",
+      "words": [
+        "Us",
+        "par",
+        "—"
+      ],
+      "word_timings": [
+        {
+          "word": "Us",
+          "start": 7.816,
+          "end": 8.084
+        },
+        {
+          "word": "par",
+          "start": 8.084,
+          "end": 8.365
+        },
+        {
+          "word": "—",
+          "start": 8.365,
+          "end": 8.472
+        }
+      ],
+      "word_count": 3,
+      "start": 7.816,
+      "end": 8.472,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 8,
+      "text": "ek purana,",
+      "words": [
+        "ek",
+        "purana,"
+      ],
+      "word_timings": [
+        {
+          "word": "ek",
+          "start": 8.472,
+          "end": 8.74
+        },
+        {
+          "word": "purana,",
+          "start": 8.74,
+          "end": 9.369
+        }
+      ],
+      "word_count": 2,
+      "start": 8.472,
+      "end": 9.369,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 9,
+      "text": "geela shawl.",
+      "words": [
+        "geela",
+        "shawl."
+      ],
+      "word_timings": [
+        {
+          "word": "geela",
+          "start": 9.369,
+          "end": 9.838
+        },
+        {
+          "word": "shawl.",
+          "start": 9.838,
+          "end": 10.453
+        }
+      ],
+      "word_count": 2,
+      "start": 9.369,
+      "end": 10.453,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 10,
+      "text": "Tahta hua.",
+      "words": [
+        "Tahta",
+        "hua."
+      ],
+      "word_timings": [
+        {
+          "word": "Tahta",
+          "start": 10.453,
+          "end": 10.922
+        },
+        {
+          "word": "hua.",
+          "start": 10.922,
+          "end": 11.35
+        }
+      ],
+      "word_count": 2,
+      "start": 10.453,
+      "end": 11.35,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 11,
+      "text": "Jaise kisi ne",
+      "words": [
+        "Jaise",
+        "kisi",
+        "ne"
+      ],
+      "word_timings": [
+        {
+          "word": "Jaise",
+          "start": 11.35,
+          "end": 11.818
+        },
+        {
+          "word": "kisi",
+          "start": 11.818,
+          "end": 12.193
+        },
+        {
+          "word": "ne",
+          "start": 12.193,
+          "end": 12.461
+        }
+      ],
+      "word_count": 3,
+      "start": 11.35,
+      "end": 12.461,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 12,
+      "text": "abhi-abhi uthaya ho.",
+      "words": [
+        "abhi-abhi",
+        "uthaya",
+        "ho."
+      ],
+      "word_timings": [
+        {
+          "word": "abhi-abhi",
+          "start": 12.461,
+          "end": 13.304
+        },
+        {
+          "word": "uthaya",
+          "start": 13.304,
+          "end": 13.866
+        },
+        {
+          "word": "ho.",
+          "start": 13.866,
+          "end": 14.281
+        }
+      ],
+      "word_count": 3,
+      "start": 12.461,
+      "end": 14.281,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 13,
+      "text": "Log phusphusaye:",
+      "words": [
+        "Log",
+        "phusphusaye:"
+      ],
+      "word_timings": [
+        {
+          "word": "Log",
+          "start": 14.281,
+          "end": 14.562
+        },
+        {
+          "word": "phusphusaye:",
+          "start": 14.562,
+          "end": 15.66
+        }
+      ],
+      "word_count": 2,
+      "start": 14.281,
+      "end": 15.66,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 14,
+      "text": "\"Kaun hai?",
+      "words": [
+        "\"Kaun",
+        "hai?"
+      ],
+      "word_timings": [
+        {
+          "word": "\"Kaun",
+          "start": 15.66,
+          "end": 16.035
+        },
+        {
+          "word": "hai?",
+          "start": 16.035,
+          "end": 16.463
+        }
+      ],
+      "word_count": 2,
+      "start": 15.66,
+      "end": 16.463,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 15,
+      "text": "Koi mantri?",
+      "words": [
+        "Koi",
+        "mantri?"
+      ],
+      "word_timings": [
+        {
+          "word": "Koi",
+          "start": 16.463,
+          "end": 16.744
+        },
+        {
+          "word": "mantri?",
+          "start": 16.744,
+          "end": 17.453
+        }
+      ],
+      "word_count": 2,
+      "start": 16.463,
+      "end": 17.453,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 16,
+      "text": "Koi baba?\"",
+      "words": [
+        "Koi",
+        "baba?\""
+      ],
+      "word_timings": [
+        {
+          "word": "Koi",
+          "start": 17.453,
+          "end": 17.734
+        },
+        {
+          "word": "baba?\"",
+          "start": 17.734,
+          "end": 18.176
+        }
+      ],
+      "word_count": 2,
+      "start": 17.453,
+      "end": 18.176,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 17,
+      "text": "Dadaji muskuraye.",
+      "words": [
+        "Dadaji",
+        "muskuraye."
+      ],
+      "word_timings": [
+        {
+          "word": "Dadaji",
+          "start": 18.176,
+          "end": 18.738
+        },
+        {
+          "word": "muskuraye.",
+          "start": 18.738,
+          "end": 19.729
+        }
+      ],
+      "word_count": 2,
+      "start": 18.176,
+      "end": 19.729,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 18,
+      "text": "Haath shawl pe",
+      "words": [
+        "Haath",
+        "shawl",
+        "pe"
+      ],
+      "word_timings": [
+        {
+          "word": "Haath",
+          "start": 19.729,
+          "end": 20.197
+        },
+        {
+          "word": "shawl",
+          "start": 20.197,
+          "end": 20.666
+        },
+        {
+          "word": "pe",
+          "start": 20.666,
+          "end": 20.933
+        }
+      ],
+      "word_count": 3,
+      "start": 19.729,
+      "end": 20.933,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 19,
+      "text": "rakha.",
+      "words": [
+        "rakha."
+      ],
+      "word_timings": [
+        {
+          "word": "rakha.",
+          "start": 20.933,
+          "end": 21.549
+        }
+      ],
+      "word_count": 1,
+      "start": 20.933,
+      "end": 21.549,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 20,
+      "text": "\"Mera dost hai.",
+      "words": [
+        "\"Mera",
+        "dost",
+        "hai."
+      ],
+      "word_timings": [
+        {
+          "word": "\"Mera",
+          "start": 21.549,
+          "end": 21.924
+        },
+        {
+          "word": "dost",
+          "start": 21.924,
+          "end": 22.298
+        },
+        {
+          "word": "hai.",
+          "start": 22.298,
+          "end": 22.727
+        }
+      ],
+      "word_count": 3,
+      "start": 21.549,
+      "end": 22.727,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 21,
+      "text": "Bas yeh seat",
+      "words": [
+        "Bas",
+        "yeh",
+        "seat"
+      ],
+      "word_timings": [
+        {
+          "word": "Bas",
+          "start": 22.727,
+          "end": 23.008
+        },
+        {
+          "word": "yeh",
+          "start": 23.008,
+          "end": 23.289
+        },
+        {
+          "word": "seat",
+          "start": 23.289,
+          "end": 23.664
+        }
+      ],
+      "word_count": 3,
+      "start": 22.727,
+      "end": 23.664,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 22,
+      "text": "chahiye.\" Ek ladki",
+      "words": [
+        "chahiye.\"",
+        "Ek",
+        "ladki"
+      ],
+      "word_timings": [
+        {
+          "word": "chahiye.\"",
+          "start": 23.664,
+          "end": 24.386
+        },
+        {
+          "word": "Ek",
+          "start": 24.386,
+          "end": 24.654
+        },
+        {
+          "word": "ladki",
+          "start": 24.654,
+          "end": 25.123
+        }
+      ],
+      "word_count": 3,
+      "start": 23.664,
+      "end": 25.123,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 23,
+      "text": "baith gayi us par.",
+      "words": [
+        "baith",
+        "gayi",
+        "us",
+        "par."
+      ],
+      "word_timings": [
+        {
+          "word": "baith",
+          "start": 25.123,
+          "end": 25.591
+        },
+        {
+          "word": "gayi",
+          "start": 25.591,
+          "end": 25.966
+        },
+        {
+          "word": "us",
+          "start": 25.966,
+          "end": 26.233
+        },
+        {
+          "word": "par.",
+          "start": 26.233,
+          "end": 26.662
+        }
+      ],
+      "word_count": 4,
+      "start": 25.123,
+      "end": 26.662,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 24,
+      "text": "Dadaji ne usay",
+      "words": [
+        "Dadaji",
+        "ne",
+        "usay"
+      ],
+      "word_timings": [
+        {
+          "word": "Dadaji",
+          "start": 26.662,
+          "end": 27.224
+        },
+        {
+          "word": "ne",
+          "start": 27.224,
+          "end": 27.492
+        },
+        {
+          "word": "usay",
+          "start": 27.492,
+          "end": 27.866
+        }
+      ],
+      "word_count": 3,
+      "start": 26.662,
+      "end": 27.866,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 25,
+      "text": "uthaya.",
+      "words": [
+        "uthaya."
+      ],
+      "word_timings": [
+        {
+          "word": "uthaya.",
+          "start": 27.866,
+          "end": 28.576
+        }
+      ],
+      "word_count": 1,
+      "start": 27.866,
+      "end": 28.576,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 26,
+      "text": "Shawl saaf kiya.",
+      "words": [
+        "Shawl",
+        "saaf",
+        "kiya."
+      ],
+      "word_timings": [
+        {
+          "word": "Shawl",
+          "start": 28.576,
+          "end": 29.044
+        },
+        {
+          "word": "saaf",
+          "start": 29.044,
+          "end": 29.419
+        },
+        {
+          "word": "kiya.",
+          "start": 29.419,
+          "end": 29.941
+        }
+      ],
+      "word_count": 3,
+      "start": 28.576,
+      "end": 29.941,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 27,
+      "text": "\"Abhi nahi.\"",
+      "words": [
+        "\"Abhi",
+        "nahi.\""
+      ],
+      "word_timings": [
+        {
+          "word": "\"Abhi",
+          "start": 29.941,
+          "end": 30.316
+        },
+        {
+          "word": "nahi.\"",
+          "start": 30.316,
+          "end": 30.757
+        }
+      ],
+      "word_count": 2,
+      "start": 29.941,
+      "end": 30.757,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 28,
+      "text": "Ghanti baji.",
+      "words": [
+        "Ghanti",
+        "baji."
+      ],
+      "word_timings": [
+        {
+          "word": "Ghanti",
+          "start": 30.757,
+          "end": 31.319
+        },
+        {
+          "word": "baji.",
+          "start": 31.319,
+          "end": 31.841
+        }
+      ],
+      "word_count": 2,
+      "start": 30.757,
+      "end": 31.841,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 29,
+      "text": "Aarti khatam.",
+      "words": [
+        "Aarti",
+        "khatam."
+      ],
+      "word_timings": [
+        {
+          "word": "Aarti",
+          "start": 31.841,
+          "end": 32.31
+        },
+        {
+          "word": "khatam.",
+          "start": 32.31,
+          "end": 33.019
+        }
+      ],
+      "word_count": 2,
+      "start": 31.841,
+      "end": 33.019,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 30,
+      "text": "Bheed chhant gayi.",
+      "words": [
+        "Bheed",
+        "chhant",
+        "gayi."
+      ],
+      "word_timings": [
+        {
+          "word": "Bheed",
+          "start": 33.019,
+          "end": 33.488
+        },
+        {
+          "word": "chhant",
+          "start": 33.488,
+          "end": 34.05
+        },
+        {
+          "word": "gayi.",
+          "start": 34.05,
+          "end": 34.572
+        }
+      ],
+      "word_count": 3,
+      "start": 33.019,
+      "end": 34.572,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 31,
+      "text": "Kursi khali.",
+      "words": [
+        "Kursi",
+        "khali."
+      ],
+      "word_timings": [
+        {
+          "word": "Kursi",
+          "start": 34.572,
+          "end": 35.04
+        },
+        {
+          "word": "khali.",
+          "start": 35.04,
+          "end": 35.656
+        }
+      ],
+      "word_count": 2,
+      "start": 34.572,
+      "end": 35.656,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 32,
+      "text": "Shawl khali.",
+      "words": [
+        "Shawl",
+        "khali."
+      ],
+      "word_timings": [
+        {
+          "word": "Shawl",
+          "start": 35.656,
+          "end": 36.124
+        },
+        {
+          "word": "khali.",
+          "start": 36.124,
+          "end": 36.74
+        }
+      ],
+      "word_count": 2,
+      "start": 35.656,
+      "end": 36.74,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 33,
+      "text": "Koi nahi aaya.",
+      "words": [
+        "Koi",
+        "nahi",
+        "aaya."
+      ],
+      "word_timings": [
+        {
+          "word": "Koi",
+          "start": 36.74,
+          "end": 37.021
+        },
+        {
+          "word": "nahi",
+          "start": 37.021,
+          "end": 37.396
+        },
+        {
+          "word": "aaya.",
+          "start": 37.396,
+          "end": 37.918
+        }
+      ],
+      "word_count": 3,
+      "start": 36.74,
+      "end": 37.918,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 34,
+      "text": "Raat ko Dadaji",
+      "words": [
+        "Raat",
+        "ko",
+        "Dadaji"
+      ],
+      "word_timings": [
+        {
+          "word": "Raat",
+          "start": 37.918,
+          "end": 38.293
+        },
+        {
+          "word": "ko",
+          "start": 38.293,
+          "end": 38.56
+        },
+        {
+          "word": "Dadaji",
+          "start": 38.56,
+          "end": 39.123
+        }
+      ],
+      "word_count": 3,
+      "start": 37.918,
+      "end": 39.123,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 35,
+      "text": "ne wo shawl",
+      "words": [
+        "ne",
+        "wo",
+        "shawl"
+      ],
+      "word_timings": [
+        {
+          "word": "ne",
+          "start": 39.123,
+          "end": 39.39
+        },
+        {
+          "word": "wo",
+          "start": 39.39,
+          "end": 39.658
+        },
+        {
+          "word": "shawl",
+          "start": 39.658,
+          "end": 40.126
+        }
+      ],
+      "word_count": 3,
+      "start": 39.123,
+      "end": 40.126,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 36,
+      "text": "uthaya.",
+      "words": [
+        "uthaya."
+      ],
+      "word_timings": [
+        {
+          "word": "uthaya.",
+          "start": 40.126,
+          "end": 40.836
+        }
+      ],
+      "word_count": 1,
+      "start": 40.126,
+      "end": 40.836,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 37,
+      "text": "Chooma.",
+      "words": [
+        "Chooma."
+      ],
+      "word_timings": [
+        {
+          "word": "Chooma.",
+          "start": 40.836,
+          "end": 41.545
+        }
+      ],
+      "word_count": 1,
+      "start": 40.836,
+      "end": 41.545,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 38,
+      "text": "Bag mein rakh diya.",
+      "words": [
+        "Bag",
+        "mein",
+        "rakh",
+        "diya."
+      ],
+      "word_timings": [
+        {
+          "word": "Bag",
+          "start": 41.545,
+          "end": 41.826
+        },
+        {
+          "word": "mein",
+          "start": 41.826,
+          "end": 42.201
+        },
+        {
+          "word": "rakh",
+          "start": 42.201,
+          "end": 42.576
+        },
+        {
+          "word": "diya.",
+          "start": 42.576,
+          "end": 43.098
+        }
+      ],
+      "word_count": 4,
+      "start": 41.545,
+      "end": 43.098,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 39,
+      "text": "Aur yaad aaya —",
+      "words": [
+        "Aur",
+        "yaad",
+        "aaya",
+        "—"
+      ],
+      "word_timings": [
+        {
+          "word": "Aur",
+          "start": 43.098,
+          "end": 43.379
+        },
+        {
+          "word": "yaad",
+          "start": 43.379,
+          "end": 43.754
+        },
+        {
+          "word": "aaya",
+          "start": 43.754,
+          "end": 44.128
+        },
+        {
+          "word": "—",
+          "start": 44.128,
+          "end": 44.235
+        }
+      ],
+      "word_count": 4,
+      "start": 43.098,
+      "end": 44.235,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 40,
+      "text": "pachpan saal pehle.",
+      "words": [
+        "pachpan",
+        "saal",
+        "pehle."
+      ],
+      "word_timings": [
+        {
+          "word": "pachpan",
+          "start": 44.235,
+          "end": 44.891
+        },
+        {
+          "word": "saal",
+          "start": 44.891,
+          "end": 45.266
+        },
+        {
+          "word": "pehle.",
+          "start": 45.266,
+          "end": 45.882
+        }
+      ],
+      "word_count": 3,
+      "start": 44.235,
+      "end": 45.882,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 41,
+      "text": "Chhota Dadaji.",
+      "words": [
+        "Chhota",
+        "Dadaji."
+      ],
+      "word_timings": [
+        {
+          "word": "Chhota",
+          "start": 45.882,
+          "end": 46.444
+        },
+        {
+          "word": "Dadaji.",
+          "start": 46.444,
+          "end": 47.153
+        }
+      ],
+      "word_count": 2,
+      "start": 45.882,
+      "end": 47.153,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 42,
+      "text": "Maa ki ungli",
+      "words": [
+        "Maa",
+        "ki",
+        "ungli"
+      ],
+      "word_timings": [
+        {
+          "word": "Maa",
+          "start": 47.153,
+          "end": 47.434
+        },
+        {
+          "word": "ki",
+          "start": 47.434,
+          "end": 47.702
+        },
+        {
+          "word": "ungli",
+          "start": 47.702,
+          "end": 48.17
+        }
+      ],
+      "word_count": 3,
+      "start": 47.153,
+      "end": 48.17,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 43,
+      "text": "pakde.",
+      "words": [
+        "pakde."
+      ],
+      "word_timings": [
+        {
+          "word": "pakde.",
+          "start": 48.17,
+          "end": 48.786
+        }
+      ],
+      "word_count": 1,
+      "start": 48.17,
+      "end": 48.786,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 44,
+      "text": "Darwaze par.",
+      "words": [
+        "Darwaze",
+        "par."
+      ],
+      "word_timings": [
+        {
+          "word": "Darwaze",
+          "start": 48.786,
+          "end": 49.442
+        },
+        {
+          "word": "par.",
+          "start": 49.442,
+          "end": 49.87
+        }
+      ],
+      "word_count": 2,
+      "start": 48.786,
+      "end": 49.87,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 45,
+      "text": "\"Baba fauj mein hain,",
+      "words": [
+        "\"Baba",
+        "fauj",
+        "mein",
+        "hain,"
+      ],
+      "word_timings": [
+        {
+          "word": "\"Baba",
+          "start": 49.87,
+          "end": 50.245
+        },
+        {
+          "word": "fauj",
+          "start": 50.245,
+          "end": 50.62
+        },
+        {
+          "word": "mein",
+          "start": 50.62,
+          "end": 50.995
+        },
+        {
+          "word": "hain,",
+          "start": 50.995,
+          "end": 51.436
+        }
+      ],
+      "word_count": 4,
+      "start": 49.87,
+      "end": 51.436,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 46,
+      "text": "beta.",
+      "words": [
+        "beta."
+      ],
+      "word_timings": [
+        {
+          "word": "beta.",
+          "start": 51.436,
+          "end": 51.958
+        }
+      ],
+      "word_count": 1,
+      "start": 51.436,
+      "end": 51.958,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 47,
+      "text": "Tuesday aayenge.\"",
+      "words": [
+        "Tuesday",
+        "aayenge.\""
+      ],
+      "word_timings": [
+        {
+          "word": "Tuesday",
+          "start": 51.958,
+          "end": 52.614
+        },
+        {
+          "word": "aayenge.\"",
+          "start": 52.614,
+          "end": 53.337
+        }
+      ],
+      "word_count": 2,
+      "start": 51.958,
+      "end": 53.337,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 48,
+      "text": "Aaj bhi Tuesday hai.",
+      "words": [
+        "Aaj",
+        "bhi",
+        "Tuesday",
+        "hai."
+      ],
+      "word_timings": [
+        {
+          "word": "Aaj",
+          "start": 53.337,
+          "end": 53.618
+        },
+        {
+          "word": "bhi",
+          "start": 53.618,
+          "end": 53.899
+        },
+        {
+          "word": "Tuesday",
+          "start": 53.899,
+          "end": 54.555
+        },
+        {
+          "word": "hai.",
+          "start": 54.555,
+          "end": 54.983
+        }
+      ],
+      "word_count": 4,
+      "start": 53.337,
+      "end": 54.983,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 49,
+      "text": "Woh aaye.",
+      "words": [
+        "Woh",
+        "aaye."
+      ],
+      "word_timings": [
+        {
+          "word": "Woh",
+          "start": 54.983,
+          "end": 55.264
+        },
+        {
+          "word": "aaye.",
+          "start": 55.264,
+          "end": 55.786
+        }
+      ],
+      "word_count": 2,
+      "start": 54.983,
+      "end": 55.786,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 50,
+      "text": "Shawl mein.",
+      "words": [
+        "Shawl",
+        "mein."
+      ],
+      "word_timings": [
+        {
+          "word": "Shawl",
+          "start": 55.786,
+          "end": 56.255
+        },
+        {
+          "word": "mein.",
+          "start": 56.255,
+          "end": 56.777
+        }
+      ],
+      "word_count": 2,
+      "start": 55.786,
+      "end": 56.777,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 51,
+      "text": "Seat mein.",
+      "words": [
+        "Seat",
+        "mein."
+      ],
+      "word_timings": [
+        {
+          "word": "Seat",
+          "start": 56.777,
+          "end": 57.151
+        },
+        {
+          "word": "mein.",
+          "start": 57.151,
+          "end": 57.673
+        }
+      ],
+      "word_count": 2,
+      "start": 56.777,
+      "end": 57.673,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 52,
+      "text": "Intezaar mein.",
+      "words": [
+        "Intezaar",
+        "mein."
+      ],
+      "word_timings": [
+        {
+          "word": "Intezaar",
+          "start": 57.673,
+          "end": 58.423
+        },
+        {
+          "word": "mein.",
+          "start": 58.423,
+          "end": 58.945
+        }
+      ],
+      "word_count": 2,
+      "start": 57.673,
+      "end": 58.945,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    },
+    {
+      "index": 53,
+      "text": "Har Tuesday.",
+      "words": [
+        "Har",
+        "Tuesday."
+      ],
+      "word_timings": [
+        {
+          "word": "Har",
+          "start": 58.945,
+          "end": 59.226
+        },
+        {
+          "word": "Tuesday.",
+          "start": 59.226,
+          "end": 60.029
+        }
+      ],
+      "word_count": 2,
+      "start": 58.945,
+      "end": 60.029,
+      "highlight_word": null,
+      "scene_id": "scene_09"
+    }
+  ],
+  "scene_mapping": [
+    {
+      "scene_id": "scene_01",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 0.0,
+      "aligned_end": 0.562,
+      "duration": 0.562,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_02",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 0.562,
+      "aligned_end": 0.962,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_03",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 0.962,
+      "aligned_end": 1.362,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_04",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 1.362,
+      "aligned_end": 1.762,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_05",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 1.762,
+      "aligned_end": 2.162,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_06",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 2.162,
+      "aligned_end": 2.562,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_07",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 2.562,
+      "aligned_end": 2.962,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_08",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 2.962,
+      "aligned_end": 3.362,
+      "duration": 0.4,
+      "word_start_idx": 0,
+      "word_end_idx": 0,
+      "narration": "",
+      "matched_words": "Mandir"
+    },
+    {
+      "scene_id": "scene_09",
+      "planned_start": null,
+      "planned_end": null,
+      "aligned_start": 3.362,
+      "aligned_end": 60.029,
+      "duration": 56.667,
+      "word_start_idx": 0,
+      "word_end_idx": 131,
+      "narration": "",
+      "matched_words": "Mandir bhara hua tha. Aarti ki jyot lakh lakh haathon mein jal rahi thi. Magar ek kursi khali thi. Us par — ek purana, geela shawl. Tahta hua. Jaise kisi ne abhi-abhi uthaya ho. Log phusphusaye: \"Kaun hai? Koi mantri? Koi baba?\" Dadaji muskuraye. Haath shawl pe rakha. \"Mera dost hai. Bas yeh seat chahiye.\" Ek ladki baith gayi us par. Dadaji ne usay uthaya. Shawl saaf kiya. \"Abhi nahi.\" Ghanti baji. Aarti khatam. Bheed chhant gayi. Kursi khali. Shawl khali. Koi nahi aaya. Raat ko Dadaji ne wo shawl uthaya. Chooma. Bag mein rakh diya. Aur yaad aaya — pachpan saal pehle. Chhota Dadaji. Maa ki ungli pakde. Darwaze par. \"Baba fauj mein hain, beta. Tuesday aayenge.\" Aaj bhi Tuesday hai. Woh aaye. Shawl mein. Seat mein. Intezaar mein. Har Tuesday."
+    }
+  ],
+  "pauses_detected": [
+    {
+      "start": 1.504,
+      "end": 2.055
+    },
+    {
+      "start": 5.285,
+      "end": 5.869
+    },
+    {
+      "start": 6.249,
+      "end": 6.578
+    },
+    {
+      "start": 6.771,
+      "end": 6.925
+    },
+    {
+      "start": 7.805,
+      "end": 8.348
+    },
+    {
+      "start": 8.762,
+      "end": 9.244
+    },
+    {
+      "start": 11.03,
+      "end": 11.568
+    },
+    {
+      "start": 12.149,
+      "end": 12.592
+    },
+    {
+      "start": 13.455,
+      "end": 13.617
+    },
+    {
+      "start": 14.628,
+      "end": 15.213
+    },
+    {
+      "start": 16.1,
+      "end": 16.562
+    },
+    {
+      "start": 16.94,
+      "end": 17.387
+    },
+    {
+      "start": 17.902,
+      "end": 18.271
+    },
+    {
+      "start": 18.756,
+      "end": 19.285
+    },
+    {
+      "start": 20.314,
+      "end": 20.717
+    },
+    {
+      "start": 21.841,
+      "end": 22.356
+    },
+    {
+      "start": 23.215,
+      "end": 23.624
+    },
+    {
+      "start": 23.95,
+      "end": 24.145
+    },
+    {
+      "start": 25.126,
+      "end": 25.627
+    },
+    {
+      "start": 27.004,
+      "end": 27.46
+    },
+    {
+      "start": 28.725,
+      "end": 29.057
+    },
+    {
+      "start": 29.986,
+      "end": 30.442
+    },
+    {
+      "start": 30.937,
+      "end": 31.523
+    },
+    {
+      "start": 32.218,
+      "end": 32.65
+    },
+    {
+      "start": 33.445,
+      "end": 33.923
+    },
+    {
+      "start": 34.763,
+      "end": 35.268
+    },
+    {
+      "start": 36.004,
+      "end": 36.355
+    },
+    {
+      "start": 37.078,
+      "end": 37.587
+    },
+    {
+      "start": 38.275,
+      "end": 38.853
+    },
+    {
+      "start": 40.968,
+      "end": 41.425
+    },
+    {
+      "start": 41.815,
+      "end": 42.262
+    },
+    {
+      "start": 43.092,
+      "end": 43.597
+    },
+    {
+      "start": 44.26,
+      "end": 44.694
+    },
+    {
+      "start": 45.94,
+      "end": 46.501
+    },
+    {
+      "start": 47.363,
+      "end": 47.891
+    },
+    {
+      "start": 48.973,
+      "end": 49.331
+    },
+    {
+      "start": 50.048,
+      "end": 50.552
+    },
+    {
+      "start": 51.88,
+      "end": 52.259
+    },
+    {
+      "start": 52.979,
+      "end": 53.538
+    },
+    {
+      "start": 54.561,
+      "end": 55.066
+    },
+    {
+      "start": 55.539,
+      "end": 55.932
+    },
+    {
+      "start": 56.517,
+      "end": 56.875
+    },
+    {
+      "start": 57.492,
+      "end": 57.878
+    },
+    {
+      "start": 58.564,
+      "end": 59.044
+    },
+    {
+      "start": 59.795,
+      "end": 60.029
+    }
+  ],
+  "word_events": [],
+  "metadata": {
+    "provider": "vad_speech_envelope_fallback",
+    "speech_segments_detected": 1,
+    "speech_segments": [
+      {
+        "start": 0.0,
+        "end": 60.029
+      }
+    ]
+  }
+}
