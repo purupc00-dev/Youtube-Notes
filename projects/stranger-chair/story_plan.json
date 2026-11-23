@@ -14,9 +14,7 @@
       "shot": "Wide establishing: packed temple courtyard, aarti flames, hundreds of hands",
       "action": "Crowd swaying, bells ringing, light flickering on faces",
       "emotion": "Reverence, anticipation",
-      "characters": [
-        "crowd"
-      ],
+      "characters": ["crowd"],
       "location": "temple courtyard",
       "lighting": "Warm golden aarti light, flickering shadows",
       "camera_motion": "Slow drift in, handheld breath",
@@ -24,7 +22,9 @@
       "subtitle_chunk": "Mandir bhara hua tha. Aarti ki jyot lakh lakh haathon mein jal rahi thi.",
       "start": 0.0,
       "end": 0.562,
-      "word_events": []
+      "word_events": [],
+      "image_prompt": "Wide cinematic 9:16 shot of an ancient Indian temple courtyard at dusk, packed with hundreds of devotees holding aarti plates with flickering flames. Golden warm light from hundreds of diyas illuminates weathered stone pillars and carved arches. Crowd in traditional Indian attire — sarees, kurtas, dhotis — hands raised in prayer, faces uplifted in reverence. Smoke and incense swirling in golden beams. Shallow depth of field, 85mm lens feel, stylized-realistic 3D render, earthy ochre and honey gold palette, amber practical lighting, soft rim light on faces. Cinematic composition with leading lines of temple architecture.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, changing age, low resolution, oversharpening, extreme expression, oversaturated colors, cropped head, cropped hands, text, watermark, logo, modern clothing, phones, cameras, electric lights, modern architecture"
     },
     {
       "id": "scene_02",
@@ -41,7 +41,9 @@
       "subtitle_chunk": "Magar ek kursi khali thi. Us par — ek purana, geela shawl.",
       "start": 0.562,
       "end": 0.962,
-      "word_events": []
+      "word_events": [],
+      "image_prompt": "Medium close-up 9:16 of a single empty wooden chair in a crowded temple courtyard. On the seat rests a folded, slightly damp wool shawl in muted earth tones — ochre and brown — fibers catching the warm golden aarti light. Shallow depth of field, the blurred crowd behind creates mystery. The shawl looks recently placed, still holding warmth. Cinematic 3D stylized-realistic, 85mm f/1.4, amber key light, soft rim on shawl texture, dust motes in light beam. Focus on fabric texture and the emptiness it marks.",
+      "negative_prompt": "cartoon, illustration, plastic, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, low resolution, oversharpening, oversaturated colors, text, watermark, logo, modern chair, plastic chair, bright synthetic fabrics, clean sterile look"
     },
     {
       "id": "scene_03",
@@ -50,19 +52,17 @@
       "shot": "Quick cuts: aunties whispering, politician's aide checking watch, kids pointing",
       "action": "Speculation spreads through crowd",
       "emotion": "Gossip, intrigue",
-      "characters": [
-        "aunties",
-        "aide",
-        "kids"
-      ],
+      "characters": ["aunties", "aide", "kids"],
       "location": "temple courtyard",
       "lighting": "Mixed warm/cool, faces half-lit",
       "camera_motion": "Whip pans between faces",
       "sfx_cue": "whispers, fabric_rustle",
       "subtitle_chunk": "Tahta hua. Jaise kisi ne abhi-abhi uthaya ho. Log phusphusaye: Kaun hai? Koi mantri? Koi baba?",
       "start": 0.962,
-      "end": 1.362,
-      "word_events": []
+      "end": 2.281,
+      "word_events": [],
+      "image_prompt": "Split-screen or rapid sequence 9:16 composition showing three quick reactions in temple crowd: (1) Two elderly aunties in cotton sarees leaning close, whispering, eyes darting to empty chair, gold bangles catching light; (2) A politician's aide in crisp white kurta-pajama with Nehru jacket, checking expensive watch, smug expression, security earpiece visible; (3) Two curious children (8-10 years) in simple clothes, pointing at empty chair, wide innocent eyes. Warm golden aarti light mixed with cooler dusk shadows on faces. Cinematic 3D stylized-realistic, expressive faces, shallow DOF, 85mm lens, earthy palette with gold accents.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent faces, low resolution, oversharpening, oversaturated colors, text, watermark, logo, modern smartphones, modern watches, western clothing, sterile lighting"
     },
     {
       "id": "scene_04",
@@ -71,17 +71,17 @@
       "shot": "Close-up: Dadaji's weathered face, gentle smile, hand resting on shawl",
       "action": "Protective gesture, calm authority",
       "emotion": "Quiet certainty, warmth",
-      "characters": [
-        "Dadaji"
-      ],
+      "characters": ["Dadaji"],
       "location": "temple courtyard",
       "lighting": "Golden rim light on face, soft aarti fill",
       "camera_motion": "Slight orbit, eyes hold frame",
       "sfx_cue": "gentle_chime",
       "subtitle_chunk": "Dadaji muskuraye. Haath shawl pe rakha. Mera dost hai. Bas yeh seat chahiye.",
-      "start": 1.362,
-      "end": 1.762,
-      "word_events": []
+      "start": 2.281,
+      "end": 4.727,
+      "word_events": [],
+      "image_prompt": "Intimate close-up 9:16 of Dadaji (75), weathered but gentle Indian face with deep laugh lines and kind dark eyes behind thin wire-rim glasses. White stubble, sparse white hair combed back. Wearing white cotton kurta (slightly worn at collar), rudraksha mala around neck, brown leather satchel strap across shoulder. His right hand rests protectively on the folded damp shawl on the empty chair — prominent veins, calloused fingertips, slight tremor of emotion. Gentle knowing smile. Golden amber rim light outlines his face and white hair, soft warm aarti fill from below. Shallow depth of field, 85mm f/1.4, background temple crowd beautifully blurred. Stylized-realistic 3D, expressive face, earthy ochre/honey gold palette.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, changing age, low resolution, oversharpening, extreme expression, oversaturated colors, cropped head, cropped hands, text, watermark, logo, young face, smooth skin, heavy makeup, modern glasses, colorful clothing"
     },
     {
       "id": "scene_05",
@@ -90,18 +90,17 @@
       "shot": "Medium: young woman sits → Dadaji's hand lifts shawl → she rises",
       "action": "Gentle correction, no words needed",
       "emotion": "Firm tenderness",
-      "characters": [
-        "Dadaji",
-        "young_woman"
-      ],
+      "characters": ["Dadaji", "young_woman"],
       "location": "temple courtyard",
       "lighting": "Same golden warmth",
       "camera_motion": "Focus pull: woman → Dadaji's hand → shawl",
       "sfx_cue": "soft_fabric_lift",
       "subtitle_chunk": "Ek ladki baith gayi us par. Dadaji ne usay uthaya. Shawl saaf kiya. Abhi nahi.",
-      "start": 1.762,
-      "end": 2.162,
-      "word_events": []
+      "start": 4.727,
+      "end": 7.076,
+      "word_events": [],
+      "image_prompt": "Medium shot 9:16 sequence moment: A young Indian woman (20s) in simple cotton kurta has just sat on the empty chair with the shawl. Dadaji's weathered hand enters frame, gently lifting the shawl from under her — she's already rising, respectful, understanding without words. Dadaji's face calm, eyes kind. Her expression: brief surprise then respect. Warm golden aarti light bathes both. Shallow DOF, 85mm lens, focus pulling from her face to his hand on shawl. Stylized-realistic 3D, earthy tones, amber practical light, soft rim on both faces. Temple crowd blurred background.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent faces, low resolution, oversharpening, oversaturated colors, text, watermark, logo, harsh lighting, aggressive gesture, angry expressions, modern clothing, western wear"
     },
     {
       "id": "scene_06",
@@ -116,9 +115,11 @@
       "camera_motion": "Static, then slow pull back",
       "sfx_cue": "temple_bell_final, fading_chant, silence",
       "subtitle_chunk": "Ghanti baji. Aarti khatam. Bheed chhant gayi. Kursi khali. Shawl khali. Koi nahi aaya.",
-      "start": 2.162,
-      "end": 2.562,
-      "word_events": []
+      "start": 7.076,
+      "end": 10.74,
+      "word_events": [],
+      "image_prompt": "Wide 9:16 shot of the now-empty temple courtyard at deep dusk. The massive temple bell is still vibrating (subtle motion blur on clapper). Aarti plates extinguished — only wisps of smoke remain. The crowd has dispersed, leaving faint footprints in dust. Center frame: the same wooden chair, the folded shawl still on it, untouched. Cool blue-dusk light mixing with last warm amber glow from temple sanctum. Long shadows. Empty, hollow feeling. Cinematic 3D stylized-realistic, 85mm lens, atmospheric perspective, dust motes in fading light. Earthy tones shifting to cooler palette — ochre to slate blue.",
+      "negative_prompt": "cartoon, illustration, plastic, uncanny valley, people still present, bright lights, daytime, oversaturated colors, text, watermark, logo, crowded scene, messy chair, shawl on ground, modern elements"
     },
     {
       "id": "scene_07",
@@ -127,17 +128,17 @@
       "shot": "Intimate close-up: dim bulb, Dadaji's fingers tracing shawl folds, kissing it, zipping bag",
       "action": "Ritual, reverence",
       "emotion": "Private devotion, love",
-      "characters": [
-        "Dadaji"
-      ],
+      "characters": ["Dadaji"],
       "location": "Dadaji's room",
       "lighting": "Single warm bulb, deep shadows",
       "camera_motion": "Macro on fingers, then bag zip",
       "sfx_cue": "fabric_rustle, bag_zip, quiet_breath",
       "subtitle_chunk": "Raat ko Dadaji ne wo shawl uthaya. Chooma. Bag mein rakh diya.",
-      "start": 2.562,
-      "end": 2.962,
-      "word_events": []
+      "start": 10.74,
+      "end": 14.545,
+      "word_events": [],
+      "image_prompt": "Intimate macro close-up 9:16 in Dadaji's simple room at night. Single warm Edison bulb hangs overhead, casting deep shadows. Dadaji's weathered hands (prominent veins, calloused fingertips) gently unfold the damp shawl, fingers tracing each fold reverently. He brings it to his lips — kisses the fabric. Then carefully folds it, places it in his brown leather satchel, zips it slowly. Extreme shallow DOF, 100mm macro feel. Warm practical light only — single bulb, rich amber, deep velvety shadows. Stylized-realistic 3D, tactile fabric texture, skin texture visible. Earthy browns, ochre, honey gold. Private, sacred moment.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, low resolution, oversharpening, oversaturated colors, text, watermark, logo, bright lighting, multiple lights, modern room, electric gadgets, clean sterile look, young hands"
     },
     {
       "id": "scene_08",
@@ -146,18 +147,17 @@
       "shot": "Sepia flashback: 5-year-old Dadaji at doorframe, mother's hand on shoulder, father's empty chair visible inside",
       "action": "Memory unfolding",
       "emotion": "Childhood hope, maternal comfort",
-      "characters": [
-        "young_Dadaji",
-        "mother"
-      ],
+      "characters": ["young_Dadaji", "mother"],
       "location": "home doorway (past)",
       "lighting": "Honey-gold memory light, soft focus",
       "camera_motion": "Slow drift, dreamy",
       "sfx_cue": "memory_whoosh, distant_train, lullaby_hum",
       "subtitle_chunk": "Aur yaad aaya — pachpan saal pehle. Chhota Dadaji. Maa ki ungli pakde. Darwaze par. Baba fauj mein hain, beta. Tuesday aayenge.",
-      "start": 2.962,
-      "end": 3.362,
-      "word_events": []
+      "start": 14.545,
+      "end": 18.87,
+      "word_events": [],
+      "image_prompt": "Dreamy sepia-toned 9:16 flashback: 5-year-old Dadaji (round face, big hopeful dark eyes, simple cotton shirt, barefoot) standing at a humble home doorway, holding his mother's fingers. Mother (30s, tired but gentle, cotton sari with pallu over head, mangalsutra, binding hair) — her hand rests on his shoulder, protective. Through the doorway behind them: a simple room with father's empty wooden chair visible, a folded uniform on it. Honey-gold memory light, soft focus, vignette edges, film grain. Stylized-realistic 3D with nostalgic filter, soft focus, 85mm lens. Warm honey-gold palette, muted earth tones. Ethereal, memory-like quality.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent faces, low resolution, oversharpening, oversaturated colors, text, watermark, logo, sharp focus, modern clothing, modern furniture, electric lights, cool tones, harsh lighting, adult Dadaji in flashback"
     },
     {
       "id": "scene_09",
@@ -166,17 +166,17 @@
       "shot": "Dadaji's back walking away from temple. Bell rings. Empty chair holds frame. Text fade-in.",
       "action": "Resolution without closure",
       "emotion": "Bittersweet, eternal",
-      "characters": [
-        "Dadaji"
-      ],
+      "characters": ["Dadaji"],
       "location": "temple exit",
       "lighting": "Cool night, one warm window behind",
       "camera_motion": "Fixed, he walks out of frame. Chair remains.",
       "sfx_cue": "final_bell, fade_to_silence",
       "subtitle_chunk": "Aaj bhi Tuesday hai. Woh aaye. Shawl mein. Seat mein. Intezaar mein. Har Tuesday.",
-      "start": 3.362,
-      "end": 60.029,
-      "word_events": []
+      "start": 18.87,
+      "end": 24.945,
+      "word_events": [],
+      "image_prompt": "Final poetic 9:16 frame: Dadaji's back walking away from temple gate into cool night. He wears white kurta, leather satchel, rudraksha mala. One warm golden window of temple sanctum glows behind him. Foreground: the empty wooden chair with folded shawl — remains in frame, unmoving. Cool blue night palette with single warm accent. Fixed camera, he walks out of frame left. Chair stays. Text space at bottom for 'Har Tuesday.' Cinematic 3D stylized-realistic, 85mm lens, atmospheric, bittersweet. Earthy ochre on Dadaji, cool slate blues on night, warm gold from temple window. Vignette, fine film grain.",
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, low resolution, oversharpening, oversaturated colors, text, watermark, logo, bright lighting, daytime, crowded, chair occupied, Dadaji facing camera, modern elements, happy ending, closure"
     }
   ],
   "character_references": [
@@ -185,14 +185,10 @@
       "name": "Dadaji",
       "description": "75 years old, weathered but gentle face, kind eyes with fine wrinkles, white stubble, thin wire-rim glasses, white cotton kurta, rudraksha mala, leather satchel bag. Hands: prominent veins, calloused fingertips, gentle touch.",
       "image_prompt": "Elderly Indian man, 75, warm gentle face with deep laugh lines, kind dark eyes behind thin wire-rim glasses, white stubble, wearing white cotton kurta and rudraksha beads, leather satchel across shoulder, hands visible with prominent veins and calloused fingertips, cinematic 3D stylized-realistic, golden amber key light, soft rim light, earthy brown/ochre palette, shallow depth of field, 85mm lens, 9:16 portrait --no cartoon, illustration, plastic skin, uncanny valley",
-      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, changing age, low resolution, oversharpening, extreme expression, oversaturated colors, cropped head, cropped hands, text, watermark, logo"
+      "negative_prompt": "cartoon, illustration, plastic skin, uncanny valley, extra fingers, fused fingers, malformed hands, duplicate limbs, inconsistent face, changing age, low resolution, oversharpening, extreme expression, oversaturated colors, cropped head, cropped hands, text, watermark, logo, young face, smooth skin, heavy makeup, modern glasses, colorful clothing, bright synthetic fabrics"
     }
   ],
   "style": "warm_cinematic_3d",
   "music_style": "warm_acoustic_storytelling",
-  "subtitle_mode": "cards",
-  "duration_seconds": 60.029,
-  "timeline_source": "narration_alignment",
-  "alignment_method": "vad_speech_envelope_fallback",
-  "alignment_is_fallback": true
+  "subtitle_mode": "cards"
 }
